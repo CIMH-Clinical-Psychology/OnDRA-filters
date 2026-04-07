@@ -21,6 +21,8 @@ Change that one with this one simple trick. Doctors hate this trick!
 
 The extension persists across restarts — no signing or admin rights needed.
 
+![Chrome developer mode](screenshot-chrome.png)
+
 ---
 
 ### Firefox
