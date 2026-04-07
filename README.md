@@ -2,7 +2,7 @@
 
 Annoyed that you have infinitely long lists in OnDRA and cannot easily filter for what you're looking for?
 
-Change that one with this one simple trick. Doctors hate this trick!
+Change that one with this one simple trick. Doctors (and aspiring Dr. ) love this trick!
 
 
 (click to play video)
