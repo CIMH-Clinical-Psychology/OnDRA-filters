@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "KLR Kostenstelle Filter",
+  "version": "1.0",
+  "description": "Adds a live search filter to any dropdown with more than 10 options on reisekosten.zi.local",
+  "content_scripts": [
+    {
+      "matches": ["*://reisekosten.zi.local/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
