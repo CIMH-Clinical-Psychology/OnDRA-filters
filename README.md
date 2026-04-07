@@ -1,6 +1,6 @@
 ## ONDRA List Select Filter
 
-Annoyed that you have infinitely long lists in ONdra and cannot easily filter for what you're looking for?
+Annoyed that you have infinitely long lists in OnDRA and cannot easily filter for what you're looking for?
 
 Change that one with this one simple trick. Doctors hate this trick!
 
