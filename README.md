@@ -27,9 +27,10 @@ The extension persists across restarts — no signing or admin rights needed.
 
 ### Firefox
 
-1. Download the `.xpi` file from [Releases](https://github.com/CIMH-Clinical-Psychology/PSG-filter-firefox/releases/tag/v1)
-2. Open the Firefox Add-ons tab and select the XPI file
+> **Note:** Firefox requires extensions to be signed by Mozilla. The steps below load it as a temporary add-on — it will need to be reloaded after each Firefox restart.
 
-<img width="1092" height="457" alt="image" src="https://github.com/user-attachments/assets/e761ee88-02ae-44cf-9ed5-f9ee51dd7af8" />
-
-> **Note:** Firefox requires extensions to be signed by Mozilla. For development/testing, use `about:debugging` → **This Firefox** → **Load Temporary Add-on** and select `firefox/manifest.json`.
+1. Download and unzip this repository
+2. Open `about:debugging` in Firefox
+3. Click **This Firefox**
+4. Click **Load Temporary Add-on...**
+5. Select `firefox/manifest.json`
